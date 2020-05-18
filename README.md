@@ -3,5 +3,5 @@ Some examples of chaotic maps:
 - [Lorenz](attractors/lorenz.md)
 
 Made using WebAssembly:
-- [Mandelbrot Wasm](mandelbrot.md)
+- [Mandelbrot Wasm](mandelbrot.html)
 
