@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <title>Mandelbrot Wasm</title>
+    <style>
+      canvas { border: 0px none; background-color: black; }
+    </style>
+  </head>
+  <body>
+    <a href='/'>home</a>
+    <canvas id='canvas'></canvas>
+    <script type='text/javascript'>
+      var Module = {
+        canvas: (function() {
+          let canvas = document.querySelector('#canvas');
+          return canvas;
+        })(),
+      };
+    </script>
+    <script async type='text/javascript' src='/js/mandelbrot.js'></script>
+  </body>
+</html>
+
