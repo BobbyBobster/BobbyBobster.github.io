@@ -13,5 +13,5 @@ script: ""
     })(),
   };
 </script>
-<script async type='text/javascript' src='js/mandelbrot.js'></script>
+<script async type='text/javascript' src='../../js/mandelbrot.js'></script>
 
