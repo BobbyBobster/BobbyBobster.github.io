@@ -1,12 +1,3 @@
----
-layout: page
-title: "Attractors"
-permalink: /attractors/bogdanov/
----
-
-<canvas id='canvas' width='800' height='800'></canvas> 
-
-<script>
       const canvas = document.querySelector('#canvas');
       const ctx = canvas.getContext('2d');
 
@@ -14,7 +5,7 @@ permalink: /attractors/bogdanov/
       const k = 1.5;
       const mu = 0.0;
 
-      function drawBogdanov(xn, yn) {
+      let drawBogdanov = function (xn, yn) {
         for (let t = 0; t != 2000; ++t) {
           let y = yn + epsilon * yn + k * xn * (xn - 1) + mu * xn * yn;
           let x = xn + y;
@@ -36,4 +27,4 @@ permalink: /attractors/bogdanov/
         },
         100
       );
-</script>
+

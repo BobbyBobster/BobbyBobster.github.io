@@ -1,3 +1,2 @@
 # Bastiaan
-[attr.html](attractors.html)
-[attr.md](attractors.md)
+[bogdanov](attractors/bogdanov.md)
