@@ -9,16 +9,18 @@
     <p>
       <a href='/'>home</a>
     </p>
-    <canvas id='canvas'></canvas>
+    <canvas id='canvaswasm' width='1400' height='800'></canvas>
+    <canvas id='canvasjs' width='1400' height='800'></canvas>
     <script type='text/javascript'>
       var Module = {
         canvas: (function() {
-          let canvas = document.querySelector('#canvas');
+          let canvas = document.querySelector('#canvaswasm');
           return canvas;
         })(),
       };
     </script>
     <script async type='text/javascript' src='js/mandelbrot.js'></script>
+    <script async type='text/javascript' src='js/mandelbrotjs.js'></script>
   </body>
 </html>
 
