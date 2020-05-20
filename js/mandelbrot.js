@@ -1,3 +1,4 @@
+console.time('drawMandelbrotWasm');
 /**
  * @license
  * Copyright 2010 The Emscripten Authors
@@ -7038,4 +7039,5 @@ run();
 // {{MODULE_ADDITIONS}}
 
 
+console.timeEnd('drawMandelbrotWasm');
 
