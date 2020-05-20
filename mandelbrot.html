@@ -8,7 +8,7 @@
   <body>
     <p>
       <a href='/'>home</a>
-      <button onclick='drawMandelbrotJS();'>time js version</button>
+      <button onclick='drawMandelbrotJS(); this.onclick=null;'>time js version</button>
     </p>
     <canvas id='canvaswasm' width='1400' height='800'></canvas>
     <canvas id='canvasjs' width='1400' height='800'></canvas>
