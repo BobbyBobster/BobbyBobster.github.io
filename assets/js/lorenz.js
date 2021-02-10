@@ -1,6 +1,6 @@
 const canvas = document.querySelector('#canvas');
 const ctx = canvas.getContext('2d');
-ctx.fillStyle = 'rgba(100,0,0,0.05)';
+ctx.fillStyle = #add8e680;
 
 const sigma = 10.0 + (Math.random() - 1) * 4;
 const rho = 28.0 + (Math.random() - 1) * 8;

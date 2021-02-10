@@ -12,5 +12,5 @@ B.Sc. Econometrics and Operations Research at the University of Groningen.
 * Bahasa Indonesia
 
 ### Toy projects
-[How much faster is WebAssembly compared to JavaScript?](mandelbrot.html)
+[How much faster is WebAssembly compared to JavaScript?](mandelbrot/mandelbrot.html)
 
