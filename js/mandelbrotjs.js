@@ -1,5 +1,5 @@
 function drawMandelbrotJS() {
-  console.time('drawMandelbrotJS');
+  const timestart = Date.now();
   const canvas = document.querySelector('#canvasjs');
   const ctx = canvas.getContext('2d');
 
@@ -56,5 +56,7 @@ function drawMandelbrotJS() {
         ctx.fillRect(px, py, 1, 1);
       }
   })();
-  console.timeEnd('drawMandelbrotJS');
+  const timetaken = Date.now() - timestart;
+  document.querySelector('#js-results').textContent = 
+        "JS version took " + timetaken + " milliseconds";
 }

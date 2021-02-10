@@ -1,4 +1,4 @@
-console.time('drawMandelbrotWasm');
+const timestart = Date.now();
 /**
  * @license
  * Copyright 2010 The Emscripten Authors
@@ -7037,7 +7037,6 @@ run();
 
 
 // {{MODULE_ADDITIONS}}
-
-
-console.timeEnd('drawMandelbrotWasm');
-
+const timetaken = Date.now() - timestart;
+document.querySelector('#wasm-results').textContent = 
+        "Wasm version took " + timetaken + " milliseconds";
