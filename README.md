@@ -1,7 +1,13 @@
-Some examples of chaotic maps:
-- [Bogdanov](attractors/bogdanov.md)
-- [Lorenz](attractors/lorenz.md)
+### Education
+B.Sc. Econometrics and Operations Research at the University of Groningen.
 
-Made using WebAssembly:
-- [Mandelbrot Wasm](mandelbrot.html)
+### Interests
+* C++
+* WebAssembly
+* Scheme
+* Programming Languages
+* R
+* Domain Specific Languages
+* DevOps
+* Bahasa Indonesia
 
