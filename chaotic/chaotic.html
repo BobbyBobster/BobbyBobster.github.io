@@ -1,0 +1,49 @@
+<html>
+	<head>
+    <title>Chaotic Attractors</title>
+    <style>
+      body {
+        margin: auto 0;
+        max-width: 50em;
+        font-family: "Lato", "Helvetica", sans-serif;
+        line-height: 1.5;
+        padding: 4em 1em;
+        background-color: #000;
+      }
+      h2 { margin-top: 1em; padding-top: 1em; }
+      h1, h2, strong { color: #333; }
+      canvas { border: 0px none; background-color: black; }
+    </style>
+	</head>
+  <body>
+    <p id='data'></p>
+		<canvas id='canvas' width='600' height='600'></canvas>
+  <script>
+      const canvas = document.querySelector('#canvas');
+      const ctx = canvas.getContext('2d');
+
+      let width = canvas.width;
+      let height = canvas.height;
+      (window.onresize = () => {
+        width = canvas.width = window.innerWidth;
+        height = canvas.height = window.innerHeight;
+      })();
+
+      let zoom = 1;
+      let x = y = z = 1;
+
+      // Which presets are loaded in
+      const presets = ['chirikovTaylor', 'lorenz', 'bogdanov', 'ikeda', 'henon'];
+
+      const setTimer = function (presetfun) {
+        return setInterval(presetfun, 50);
+      }
+      // timerId will be immediately reset by the first attractor so doesn't need to do anything
+      let timerId = setTimer(() => {});
+  
+  </script>
+    <script async type='text/javascript' src='dat.gui.min.js'></script>
+    <script async type='text/javascript' src='controls.js'></script>
+    <script async type='text/javascript' src='loader.js'></script>
+	</body>
+</html>
