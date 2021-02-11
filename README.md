@@ -11,7 +11,7 @@ B.Sc. Econometrics and Operations Research at the University of Groningen.
 * DevOps
 * Bahasa Indonesia
 
-### Toy projects
+### Miscellaneous
 [How much faster is WebAssembly compared to JavaScript?](mandelbrot/mandelbrot.html)
 
 [Chaotic attractors](chaotic/chaotic.html)
