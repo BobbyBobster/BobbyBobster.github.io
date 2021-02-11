@@ -9,9 +9,3 @@ show_downloads: false
 plugins:
   - jekyll-relative-links
 
-defaults:
-  -
-    scope:
-      path: "attractors"
-    values:
-      layout: "attractor"
