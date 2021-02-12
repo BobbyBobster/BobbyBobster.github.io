@@ -18,9 +18,19 @@ contains the full paper and all code used. All analysis was done in R.
 * Domain Specific Languages
 * DevOps
 * Bahasa Indonesia
+* Vim
 
 ### Miscellaneous
-[How much faster is WebAssembly compared to JavaScript?](mandelbrot/mandelbrot.html)
+[How much faster is WebAssembly compared to JavaScript?](mandelbrot/mandelbrot.html) \
+WebAssembly and the Emscripten workflow. Also first contact with S-expressions 
+leading to interest in Lisp/Scheme/Racket.
 
-[Chaotic attractors](chaotic/chaotic.html)
+[Chaotic attractors](chaotic/chaotic.html) \
+JavaScript, canvas, and creating pretty pictures. Might add some 3D ones using
+three.js.
+
+[Webapp for doing a pack-of-cards workout](https://github.com/BobbyBobster/fitdex) \
+Web API's such as Service workers and concepts like PWA.
+
+
 
