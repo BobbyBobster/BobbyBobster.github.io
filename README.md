@@ -1,6 +1,6 @@
 Hi, I'm Bastiaan Boland. Welcome to my GitHub profile.
-Currently I'm learning Scheme (via [SICP](https://mitpress.mit.edu/sites/default/files/sicp/index.html),
-and Racket (via [Beautiful Racket](https://beautifulracket.com/).
+Currently I'm learning Scheme (via [SICP](https://mitpress.mit.edu/sites/default/files/sicp/index.html)),
+and Racket (via [Beautiful Racket](https://beautifulracket.com/)).
 Oh, and I'm looking for a job.
 
 ### Education
