@@ -5,18 +5,20 @@ and [Beautiful Racket](https://beautifulracket.com/).
 Oh, and I'm looking for a job.
 
 ### Education
-B.Sc. Econometrics and Operations Research at the University of Groningen.
-
+B.Sc. Econometrics and Operations Research at the University of Groningen. \
 The repository for my 
 [Bachelor's thesis Econometrics and Operations Research](https://github.com/BobbyBobster/thesis-panel-data/)
 contains the full paper and all code used. All analysis was done in R.
 
-At UG I finished courses like Neural Networks and Languages and Machines. 
+At UG I finished courses like [Neural Networks](https://www.rug.nl/ocasys/fwn/vak/show?code=WBAI028-05) 
+and [Languages and Machines](https://www.rug.nl/ocasys/fwn/vak/show?code=WBCS027-05). 
+
 I also finished all three parts of the 
 [C/C++ course by Frank B. Brokken and Jurjen Bokma](http://www.icce.rug.nl/edu/), 
 covering OOP, advanced allocation and class construction schemes, 
 generic algorithms, STL, templates, template meta-programming, 
 basics of grammar and code-generating tools, and more.
+
 The [MIT CSAIL Missing Semester](https://missing.csail.mit.edu/) helped my 
 understanding of digital workflows and the tools available for using computers
 to solve problems.
