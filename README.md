@@ -1,6 +1,7 @@
 Hi, I'm Bastiaan Boland. Welcome to my GitHub profile.
-Currently I'm learning Scheme (via [SICP](https://mitpress.mit.edu/sites/default/files/sicp/index.html)),
-and Racket (via [Beautiful Racket](https://beautifulracket.com/)).
+I am always trying to learn new skills, currently I'm working through
+[SICP](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm#)
+and [Beautiful Racket](https://beautifulracket.com/).
 Oh, and I'm looking for a job.
 
 ### Education
@@ -9,6 +10,16 @@ B.Sc. Econometrics and Operations Research at the University of Groningen.
 The repository for my 
 [Bachelor's thesis Econometrics and Operations Research](https://github.com/BobbyBobster/thesis-panel-data/)
 contains the full paper and all code used. All analysis was done in R.
+
+At UG I finished courses like Neural Networks and Languages and Machines. 
+I also finished all three parts of the 
+[C/C++ course by Frank B. Brokken and Jurjen Bokma](http://www.icce.rug.nl/edu/), 
+covering OOP, advanced allocation and class construction schemes, 
+generic algorithms, STL, templates, template meta-programming, 
+basics of grammar and code-generating tools, and more.
+The [MIT CSAIL Missing Semester](https://missing.csail.mit.edu/) helped my 
+understanding of digital workflows and the tools available for using computers
+to solve problems.
 
 ### Interests
 * C++
@@ -31,6 +42,5 @@ three.js.
 
 [Webapp for doing a pack-of-cards workout](https://github.com/BobbyBobster/fitdex) \
 Web API's such as Service workers and concepts like PWA.
-
 
 
