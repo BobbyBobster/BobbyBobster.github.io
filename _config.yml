@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 
 title: Bastiaan Boland
-description: Computer nerd at heart, econometrician by trade.
+description: Computers, math, mind.
 
-logo: assets/images/fotoBastiaanBoland.jpg
+logo: assets/images/fotoBastiaanBoland.png
 show_downloads: false
 
 plugins:
