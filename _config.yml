@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 
 title: Bastiaan Boland
 description: Computers, math, mind.
@@ -8,4 +8,5 @@ show_downloads: false
 
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
 
