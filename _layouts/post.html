@@ -8,11 +8,9 @@ layout: default-no-head
 <p class="view">by {{ page.author | default: site.author }}</p>
 
 {% if page.lang == "ja" %}
-  <p style="writing-mode: vertical-rl; max-height: 15em" lang="ja"> 
-    {{ content }} 
-  </p>
+  <p style="writing-mode: vertical-rl; max-height: 15em" lang="ja"> {% include page.content %} </p>
 {% else %}
-  <p> {{ content }} </p>
+  <p> {% include page.content %} </p>
 {% endif %}
 
 {% if page.tags %}
