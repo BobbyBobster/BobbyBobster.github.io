@@ -1,6 +1,6 @@
 ---
 title: Return to Debian
-date: 2024-01-29
+date: 2025-01-29
 ---
 
 After a short stint with trying out Fedora as a daily driver, I've decided to move back to running Debian on my old laptop. Even though currently I'm mostly using my wife's Macbook, I like to have something for myself where I can control everything.
