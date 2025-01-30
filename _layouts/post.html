@@ -8,11 +8,13 @@ layout: default-no-head
 <p class="view">by {{ page.author | default: site.author }}</p>
 
 {% if page.lang == "ja" %}
-  <p style="writing-mode: vertical-rl; max-height: 15em" lang="ja"> 
-    {{ page.content }} 
-  </p>
-{% else %}
-  <p> {{ page.content }} </p>
+<div style="writing-mode: vertical-rl; max-height: 15em" lang="ja"> 
+{% endif %}
+
+{{ page.content }} 
+
+{% if page.lang == "ja" %}
+</div>
 {% endif %}
 
 {% if page.tags %}
