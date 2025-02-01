@@ -1,8 +1,15 @@
-Hi, I'm Bastiaan Boland. Welcome to my GitHub profile.
-I am always trying to learn new skills, currently I'm working through
-[SICP](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm#)
-and [Beautiful Racket](https://beautifulracket.com/).
-Oh, and I'm looking for a job.
+Hi, I'm Bastiaan Boland, if you don't yet know, I'm looking for a job in Tokyo.
+
+
+### Employment
+Previously I was employed at ING, one of the largest banks in Europe, as an Operations Engineer.
+There I was responsible for automating the full deployment process of two applications,
+one hosted on Linux (RHEL), the other on Windows Server. Next to this I was responsible for all
+day-to-day operations of those applications, as well as third-party risk management of a number
+of SaaS applications. I gained knowledge and expertise in DevOps best-practices, risk and security management,
+and system administration. During my time at ING I also took on the Scrum Master role for ~3 years,
+fulfilled the Product Owner role ad interim for ~8 months.
+
 
 ### Education
 B.Sc. Econometrics and Operations Research at the University of Groningen. \
@@ -23,17 +30,24 @@ The [MIT CSAIL Missing Semester](https://missing.csail.mit.edu/) helped my
 understanding of digital workflows and the tools available for using computers
 to solve problems.
 
+Currently studying to take the JLPT N4 exam in upcoming July.
+
+
 ### Interests
-* C++
-* WebAssembly
-* Scheme
-* R
-* Domain Specific Languages
 * DevOps
-* Bahasa Indonesia
+* Japanese
+* Python
+* Linux
+* Electronics
+* Scheme
 * Vim
+* WebAssembly
+
 
 ### Miscellaneous
+[Boids!](https://github.com/BobbyBobster/fish-boids) \
+Short boids demo in Three.js.
+
 [How much faster is WebAssembly compared to JavaScript?](mandelbrot/mandelbrot.html) \
 WebAssembly and the Emscripten workflow. Also first contact with S-expressions 
 leading to interest in Lisp/Scheme/Racket.
