@@ -1,0 +1,6 @@
+- Language acquisition and the internal mind frame
+- Some people speak sooner
+- Some people feel shame and hence speak later
+- Fear of making mistakes
+- How to overcome the first hurdles
+- Also, how to not get stuck in a local optimum
