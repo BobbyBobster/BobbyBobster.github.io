@@ -1,4 +1,4 @@
-Hi, I'm Bastiaan Boland, if you don't yet know, I'm looking for a job in Tokyo.
+Hi, I'm Bastiaan Boland, and if you don't already know, I'm looking for a job in Tokyo.
 
 
 ### Employment
@@ -30,21 +30,25 @@ The [MIT CSAIL Missing Semester](https://missing.csail.mit.edu/) helped my
 understanding of digital workflows and the tools available for using computers
 to solve problems.
 
-Currently studying to take the JLPT N4 exam in upcoming July.
+Currently studying Japanese to take the JLPT N2 exam.
 
 
 ### Interests
 * DevOps
 * Japanese
 * Python
+* Data Science
 * Linux
 * Electronics
 * Scheme
-* Vim
 * WebAssembly
 
 
 ### Miscellaneous
+[Sheetify](https://github.com/emilegeagea/sheetify) \
+Deep learning automatic music transcription system. 
+LeWagon Data Science and AI final project.
+
 [Boids!](https://github.com/BobbyBobster/fish-boids) \
 Short boids demo in Three.js.
 
