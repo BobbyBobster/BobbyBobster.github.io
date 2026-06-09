@@ -12,6 +12,12 @@ fulfilled the Product Owner role ad interim for ~8 months.
 
 
 ### Education
+LeWagon Data Science & AI Bootcamp Tokyo \
+24-week intensive coding bootcamp to learn Data Science with Python: Data Analytics with SQL,
+BigQuery, Pandas, Numpy, and Matplotlib; Statistics with Scipy, Seaborn and Statsmodels;
+Machine Learning with Scikit-learn; Deep Learning with TensorFlow Keras;
+and develop Data Products with Google Cloud Platform, ML Flow, Flask, Heroku and Streamlit.
+
 B.Sc. Econometrics and Operations Research at the University of Groningen. \
 The repository for my 
 [Bachelor's thesis Econometrics and Operations Research](https://github.com/BobbyBobster/thesis-panel-data/)
@@ -49,8 +55,11 @@ Currently studying Japanese to take the JLPT N2 exam.
 Deep learning automatic music transcription system. 
 LeWagon Data Science and AI final project.
 
-[Boids!](https://github.com/BobbyBobster/fish-boids) \
+[Boids!](https://fish-boids.vercel.app/) \
 Short boids demo in Three.js.
+
+[Daily Yojijukugo](https://github.com/BobbyBobster/daily-yoji) \
+Word-of-the-day style app for Japanese 4-kanji compounds.
 
 [How much faster is WebAssembly compared to JavaScript?](mandelbrot/mandelbrot.html) \
 WebAssembly and the Emscripten workflow. Also first contact with S-expressions 
